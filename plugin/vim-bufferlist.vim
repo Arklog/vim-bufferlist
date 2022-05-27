@@ -1,1 +1,1 @@
-let g:vim_bufferlist=1
+let g:vim_bufferlist="test"
